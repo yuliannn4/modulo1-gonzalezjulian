@@ -43,7 +43,7 @@ public class EjercicioEnClase1705 {
             
         ///////////////////////////////////////////////////////////////////////////////////////
         */
-        /*
+        
         //EJERCICIO 1
         
         String usuario = "julian";
@@ -60,7 +60,7 @@ public class EjercicioEnClase1705 {
                 }else{
                   JOptionPane.showMessageDialog(null, "Usuario y contraseña incorrectos", "Error", JOptionPane.ERROR_MESSAGE);
                 }
-           */
+           
         ///////////////////////////////////////////////////////////////////////////////////////
         
         
